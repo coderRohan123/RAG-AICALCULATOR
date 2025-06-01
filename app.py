@@ -229,7 +229,7 @@ elif choice == "🔍 Decipher":
     """)
 
     # Embed the localhost page for the math equation solving tool
-    st.components.v1.iframe("https://calc-fe.vercel.app", width=800, height=600)
+    st.components.v1.iframe("https://newfrontend-gray.vercel.app", width=800, height=600)
 
 # About Page
 elif choice == "ℹ️ About":
